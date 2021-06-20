@@ -1,7 +1,9 @@
 def hello():
   print('hello')
 
-def hello():
+  
+def wow():
   print('hello')
 
+  
 print(hello())
